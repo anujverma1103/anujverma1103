@@ -1,100 +1,98 @@
 <!-- ===================== HEADER ===================== -->
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&theme=cobalt" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Anuj Verma</h1>
-<h3 align="center">Frontend & MERN Stack Developer | BCA Undergraduate</h3>
+<h3 align="center">
+  Frontend & MERN Stack Developer | BCA Undergraduate (2026)
+</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
-</div>
-
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/anujverma1103">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anujverma85141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/anujverma1103">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github"/>
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anujverma1103.anujverma1103" />
-</div>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 BCA student at **GLA University, Mathura (2026)**  
-💻 Frontend & MERN Stack Developer  
-🚀 Aspiring Software Engineer
+I am a **BCA undergraduate at GLA University, Mathura**, with hands-on experience in **frontend and MERN stack development**.  
+I enjoy building **scalable, real-world web applications** and continuously improving my problem-solving skills.
 
 - 🔭 Currently working on **RYDO – Ride Booking Application**
-- 🌱 Learning **Advanced React, Backend Architecture & DSA in Java**
-- 👯 Open to collaborate on **React & MERN stack projects**
-- 🤝 Looking for guidance in **System Design & Backend Scalability**
+- 🌱 Learning **Advanced React, Backend Architecture & DSA (Java)**
+- 👯 Open to collaborating on **React & MERN stack projects**
+- 🤝 Seeking mentorship in **System Design & Backend Scalability**
 - 💬 Ask me about **React, JavaScript, MERN, REST APIs**
-- 📫 Reach me at **anujverma85141@gmail.com**
-- ⚡ Fun fact: *I love turning real-world problems into clean UI solutions*
+- 📫 Contact: **anujverma85141@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
 </p>
 
 ### Frontend
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36"/>
 </p>
 
 ### Backend & Database
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
 </p>
 
 ### Tools
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujverma1103&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujverma1103&theme=tokyonight" height="160"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anujverma1103&show_icons=true&theme=tokyonight" height="155"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujverma1103&theme=tokyonight" height="155"/>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujverma1103&layout=compact&theme=tokyonight"/>
-</div>
+</p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/anujverma1103/anujverma1103/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/anujverma1103/anujverma1103/output/snake.svg" />
+
+---
 
 <!-- ===================== FOOTER ===================== -->
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&theme=cobalt" />
 </div>
