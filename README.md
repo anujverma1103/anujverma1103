@@ -92,11 +92,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujverma1103/anujverma1103/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/anujverma1103/anujverma1103/output/pacman-contribution-graph.svg">
-</picture>
-
 <img src="https://raw.githubusercontent.com/anujverma1103/anujverma1103/output/snake.svg" alt="snake animation" />
 
 <!-- ===================== FOOTER ===================== -->
